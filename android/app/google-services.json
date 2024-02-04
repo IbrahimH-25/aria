@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1043466156262",
+    "project_id": "aria-fe980",
+    "storage_bucket": "aria-fe980.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043466156262:android:4f5922645ec53c4e42a327",
+        "android_client_info": {
+          "package_name": "com.example.aria"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFE_o-Vw3CNDa6Dcp621lTApECUWWUm0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
